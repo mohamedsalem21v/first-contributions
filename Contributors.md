@@ -1,6 +1,5 @@
 
 # Contributors
--[Mohammed Salem](https://github.com/mohamedsalem21v)
 -[Charles Wang](https://github.com/CharlesWangSA)
 -[Ahmed Faraj](https://github.com/Ahmad-Faraj)
 -[Amrita Shrivastava](https://github.com/Astro-naut)
